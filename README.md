@@ -2,7 +2,7 @@
 
 The task is to calculate the taxes and total of the input items and generate a reciept.  
 The basic tax rate is 10% however books, food and medicines are tax free.
-Imported products have an extra 5% tax.
+Imported products have an extra 5% tax without exception.
 The tax should be rounded up to the nearest 0.05.
 
 ---
